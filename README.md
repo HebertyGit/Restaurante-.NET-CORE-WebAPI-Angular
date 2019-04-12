@@ -1,0 +1,1 @@
+##Criação de uma aplicação .NET CORE 2.0 com uma WebApi e Angular.
